@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.fondo{
+    background-image: url(/assets/descarga.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* vh es para que ocupe toda la pantalla la imagen */
+    height: 100vh;
+    
+}

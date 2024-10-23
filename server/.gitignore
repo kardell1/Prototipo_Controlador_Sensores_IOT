@@ -1,0 +1,2 @@
+# Ignorar el archivo de bloqueo de pnpm
+pnpm-lock.yaml

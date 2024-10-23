@@ -22,3 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Ignorar el archivo de bloqueo de pnpm
+pnpm-lock.yaml
